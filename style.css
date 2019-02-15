@@ -164,6 +164,20 @@
     background-color: var(--right-button-hover-color);
     border-color: var(--right-button-hover-color);
   }
+  .privacy{
+  color : #195998;  
+  }
+  .top{
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #195998;
+    color: #ffffff;
+  }
+  .middle{
+    font-size: 1.5rem;
+  }
   
   .container {
     position: relative;
