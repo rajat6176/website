@@ -50,7 +50,10 @@
   }
   .nav {
     width: 97%;
-    display: inline;
+    overflow: hidden;
+    height: 10%;
+    
+    
     
     
     
