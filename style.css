@@ -170,6 +170,7 @@
   .privacy{
   color : #195998;  
   }
+
   .top{
     font-size: 2rem;
     text-align: center;
@@ -180,6 +181,10 @@
   }
   .middle{
     font-size: 1.5rem;
+  }
+
+  .low{
+    font-size: 1.3rem;
   }
   
   .container {
