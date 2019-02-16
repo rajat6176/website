@@ -186,7 +186,7 @@
   .container {
     position: relative;
     width: 100%;
-    height: 87%;
+    height: 80%;
     
   }
   
@@ -199,12 +199,11 @@
   
   .split.left {
     left:0;
-    background: url('businesswoman-call-career-789822.png') center center no-repeat;
+    background: url('adult-afro-blazer-1056556 copy.png') center center no-repeat;
     background-size: cover;
   }
   
   .split.left:before {
-    position:absolute;
     content: "";
     width: 100%;
     height: 100%;
@@ -213,12 +212,11 @@
   
   .split.right {
     right:0;
-    background: url('irina-219832-unsplash.png') center center no-repeat;
+    background: url('brooke-cagle-411460-unsplash2.png') center center no-repeat;
     background-size: cover;
   }
   
   .split.right:before {
-    position:absolute;
     content: "";
     width: 100%;
     height: 100%;
@@ -296,6 +294,9 @@
   @media(max-height: 700px) {
     .button {
       top: 70%;
+    }
+    .split.left{
+      background-image: url('360.png');
     }
   }
 }
