@@ -244,7 +244,13 @@
     padding: 15px 10px;
   }
   
-  
+  .boundry{
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+  width: 200px;
+  height: 50px; 
+  }
+
   /* Style the header links */
   .header a {
     float: left;
