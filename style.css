@@ -244,7 +244,22 @@
     padding: 15px 10px;
   }
   
-  
+
+  .boundry{
+    display: block;
+    position: absolute;
+    left: 70%;
+    height: 2.5rem;
+    padding-top: 1rem;
+    width: 15rem;
+    text-align: center;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;
+    
+  }
 
   /* Style the header links */
   .header a {
@@ -309,20 +324,32 @@
     .split.left{
       background-image: url('360.png');
     }
+    .header_logo{
+      display: block;
+      position: absolute;
+      right: 15%;
+      height: 2.5rem;
+      padding-top: 1rem;
+      width: 10rem;
+      color: #fff;
+      font-size: 0.8rem;
+      font-weight: bold;
+      
+      
+
+    }
     .boundry{
       display: block;
       position: absolute;
-      left: 2%;
+      left: 20%;
       height: 2.5rem;
-      padding-top: 1.3rem;
+      padding-top: 1rem;
       width: 10rem;
-      text-align: center;
       color: #fff;
-      border: #fff solid 0.2rem;
       font-size: 1rem;
       font-weight: bold;
       text-transform: uppercase;
-      text-decoration: none;
+      text-decoration: underline;
       
     }
   
