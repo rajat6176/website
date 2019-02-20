@@ -205,7 +205,7 @@
   .split.left {
     left:0;
 
-    background: url('adult-afro-blazer-1056556 copy.png') center center no-repeat;
+    background: url('images/adult-afro-blazer-1056556 copy.png') center center no-repeat;
 
 
     background-size: cover;
@@ -221,7 +221,7 @@
   .split.right {
     right:0;
 
-    background: url('brooke-cagle-411460-unsplash2.png') center center no-repeat;
+    background: url('images/brooke-cagle-411460-unsplash2.png') center center no-repeat;
 
     background-size: cover;
   }
