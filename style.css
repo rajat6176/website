@@ -205,7 +205,6 @@
   .split.left {
     left:0;
     text-align: center;
-
     background: url('images/adult-afro-blazer-1056556 copy.png') center center no-repeat;
 
 
@@ -222,7 +221,6 @@
   .split.right {
     right:0;
     text-align: center;
-
     background: url('images/brooke-cagle-411460-unsplash2.png') center center no-repeat;
 
     background-size: cover;
@@ -246,6 +244,7 @@
     padding: 15px 10px;
   }
   
+
   .boundry{
     display: block;
     position: absolute;
