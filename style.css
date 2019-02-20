@@ -304,6 +304,20 @@
       display: block;
       text-align: left;
     }
+    .boundry{
+      display: block;
+      position: absolute;
+      left: 20%;
+      height: 2.5rem;
+      padding-top: 1rem;
+      width: 10rem;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      text-decoration: underline;
+      
+    }
     .header-right {
       float: none;
     }
@@ -311,6 +325,20 @@
   @media(max-width: 800px) {
     h1 {
       font-size: 2rem;
+    }
+    .boundry{
+      display: block;
+      position: absolute;
+      left: 20%;
+      height: 2.5rem;
+      padding-top: 1rem;
+      width: 10rem;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      text-decoration: underline;
+      
     }
   
     .button {
